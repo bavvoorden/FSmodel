@@ -1,2 +1,2 @@
 # FSmodel
-FS model
+FS model met extra info
